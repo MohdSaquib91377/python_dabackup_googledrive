@@ -1,0 +1,7 @@
+1. Create .env file and add below configuration
+
+    EMAIL_PASSWORD=your_email_app_password
+    SENDER_EMAIL=your_sender_email
+    RECEIVER_EMAIL=reciever1@example.com , reciever2@example.com
+
+2. create credentials.json and paste token from google service account 
